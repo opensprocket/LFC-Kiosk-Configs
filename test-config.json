@@ -1,16 +1,16 @@
 {
     "autoStart": true,
     "fullscreen": true,
-    "lazyLoadTabs": false,
+    "lazyLoadTabs": true,
     "websites": [
         {
-            "url": "https://www.google.com",
-            "duration": 10,
+            "url": "domus.doterra.net",
+            "duration": 20,
             "tabReloadIntervalSeconds": 15
         },
         {
-            "url": "https://www.microsoft.com",
-            "duration": 10,
+            "url": "https://www.doterra.com",
+            "duration": 20,
             "tabReloadIntervalSeconds": 15
         }
     ]
