@@ -1,0 +1,17 @@
+{
+    "autoStart": true,
+    "fullscreen": true,
+    "lazyLoadTabs": false,
+    "websites": [
+        {
+            "url": "https://www.google.com",
+            "duration": 10,
+            "tabReloadIntervalSeconds": 15
+        },
+        {
+            "url": "https://www.microsoft.com",
+            "duration": 10,
+            "tabReloadIntervalSeconds": 15
+        }
+    ]
+}
